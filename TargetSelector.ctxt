@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=gr
+comment0.target=TargetSelector(BoundedGrid)
+comment1.params=
+comment1.target=void\ createAndShowGui()
+comment2.params=
+comment2.target=void\ prompt()
+comment3.params=
+comment3.target=void\ showBlocks()
+comment4.params=
+comment4.target=void\ resetCount()
+comment5.params=
+comment5.target=void\ waitForUser()
+comment6.params=
+comment6.target=Location\ getLoc()
+numComments=7

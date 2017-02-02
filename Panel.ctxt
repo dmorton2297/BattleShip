@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=g
+comment0.target=void\ paintComponent(java.awt.Graphics)
+comment1.params=
+comment1.target=void\ setNotPartOfShip()
+comment2.params=
+comment2.target=void\ setHit()
+comment3.params=
+comment3.target=void\ setPartOfShip()
+numComments=4
